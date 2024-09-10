@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c+qCu53TO1g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gumoreau\\Documents\\taprunner\\TapRunnerDll\\TapRunnerDll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gumoreau\\.nuget\\packages\\nats.client\\1.0.8\\nats.client.1.0.8.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\opentap\\9.25.0\\opentap.9.25.0.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\opentap.runner.client\\2.4.0\\opentap.runner.client.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

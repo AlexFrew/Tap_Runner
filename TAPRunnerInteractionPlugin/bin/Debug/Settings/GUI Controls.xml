@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GuiControlsSettings type="Keysight.OpenTap.Wpf.GuiControlsSettings">
+  <ExpandedStepCategories>
+    <String>TAPRunnerInteractionPlugin</String>
+    <String>Flow Control</String>
+    <String>Basic Steps</String>
+    <String>Legacy</String>
+    <String>Text</String>
+    <String>Database</String>
+  </ExpandedStepCategories>
+  <PropGridCategories />
+  <PropGridCategoryStates />
+  <MainWindowHeight>768</MainWindowHeight>
+  <MainWindowWidth>1024</MainWindowWidth>
+  <MainWindowTop>336</MainWindowTop>
+  <MainWindowLeft>768</MainWindowLeft>
+  <MainWindowState>Normal</MainWindowState>
+  <RecentTestPlans>
+    <String>C:\Users\gumoreau\source\repos\TAPRunnerInteractionPlugin\bin\Debug\FirstTestPlan.TapPlan</String>
+  </RecentTestPlans>
+  <TestPlanGridColumnDetails></TestPlanGridColumnDetails>
+  <TestPlanColumnState />
+  <TestPlanColumnState2>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Duration</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>0</Priority>
+      <OriginalPriority>0</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Flow</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>0.01</Priority>
+      <OriginalPriority>0.01</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Verdict</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>-99</Priority>
+      <OriginalPriority>-99</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name></Name>
+      <IsVisible>true</IsVisible>
+      <Priority>-101</Priority>
+      <OriginalPriority>-101</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Name</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>-100</Priority>
+      <OriginalPriority>-100</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+    <ColumnState type="Keysight.OpenTap.Gui.ColumnState">
+      <Name>Type</Name>
+      <IsVisible>true</IsVisible>
+      <Priority>1</Priority>
+      <OriginalPriority>1</OriginalPriority>
+      <Width />
+      <ManuallyConfigured>true</ManuallyConfigured>
+    </ColumnState>
+  </TestPlanColumnState2>
+  <ExternalParametersWindowSize />
+  <MultipleChoiceWindowSize />
+  <PluginManagerWindowSize />
+  <SweepValuesWindowSize />
+  <HubWindowSize />
+  <UserInputSize />
+  <UserInputSizes>
+    <KeyValuePairOfString>
+      <Key>TAPRunnerInteractionPlugin.ResetDutDialog</Key>
+      <Value>
+        <Width>360</Width>
+        <Height>180</Height>
+      </Value>
+    </KeyValuePairOfString>
+    <KeyValuePairOfString>
+      <Key>Keysight.OpenTap.Gui.PlanLoadedWithErrorsQuestion</Key>
+      <Value>
+        <Width>398</Width>
+        <Height>180</Height>
+      </Value>
+    </KeyValuePairOfString>
+  </UserInputSizes>
+  <NewStepDialogWindowSize>
+    <Width>450</Width>
+    <Height>500</Height>
+  </NewStepDialogWindowSize>
+  <SettingDialogWindowSize>
+    <Width>600</Width>
+    <Height>700</Height>
+  </SettingDialogWindowSize>
+  <TestPlanGridScrollToPlaying>false</TestPlanGridScrollToPlaying>
+  <PluginManagerColumnWidth />
+  <PropertyDataGridColumnWidth />
+  <SelectedControlProvider />
+  <GridSplitterRatios />
+  <DialogSize />
+  <DisabledLogGroups />
+  <FilterConfigurationData />
+  <MainWindowRepeatStopCount>false</MainWindowRepeatStopCount>
+  <MainWindowRepeatStopPending>false</MainWindowRepeatStopPending>
+  <MainWindowRepeatStopPass>false</MainWindowRepeatStopPass>
+  <MainWindowRepeatStopFail>false</MainWindowRepeatStopFail>
+  <MainWindowRepeatStopError>true</MainWindowRepeatStopError>
+  <MainWindowRepeatStopAbort>false</MainWindowRepeatStopAbort>
+  <MainWindowRepeatMaxCount>0</MainWindowRepeatMaxCount>
+  <FilePathControlLastBrowsedPath>Results/2024-08-01 12-24-31-NotSet.txt</FilePathControlLastBrowsedPath>
+  <Package.Dependencies>
+    <Package Name="WPF Controls" Version="^9.24.1+b1af3ee5" />
+  </Package.Dependencies>
+</GuiControlsSettings>

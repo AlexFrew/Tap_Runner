@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IP3x40hQ1do=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerLib\\TAPRunnerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gumoreau\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\nats.client\\1.0.8\\nats.client.1.0.8.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\opentap\\9.25.0\\opentap.9.25.0.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\opentap.runner.client\\2.4.0\\opentap.runner.client.2.4.0.nupkg.sha512",
+    "C:\\Users\\gumoreau\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

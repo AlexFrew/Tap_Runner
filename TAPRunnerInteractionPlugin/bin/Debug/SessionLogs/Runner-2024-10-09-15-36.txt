@@ -1,0 +1,221 @@
+2024-09-10 15:36:08.947 +01:00 [DBG] Registration URL: Not set
+2024-09-10 15:36:08.981 +01:00 [DBG] NATS URLs: Not set
+2024-09-10 15:36:08.981 +01:00 [DBG] NATS Credentials: Not set
+2024-09-10 15:36:08.981 +01:00 [DBG] Health Endpoint: Disabled
+2024-09-10 15:36:09.087 +01:00 [DBG] Debug | Resolver | Found match for NATS.Client, Version=1.0.8.0, Culture=neutral, PublicKeyToken=5b58bc7249e111a9 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\NATS.Client.1.0.8.0\NATS.Client.dll
+2024-09-10 15:36:09.482 +01:00 [DBG] NATS Leafnode: Starting nats-server
+2024-09-10 15:36:09.482 +01:00 [DBG] NATS Leafnode:   Version:  2.9.6
+2024-09-10 15:36:09.482 +01:00 [DBG] NATS Leafnode:   Git:      [289a9e1]
+2024-09-10 15:36:09.482 +01:00 [DBG] NATS Leafnode:   Go build: go1.19.3
+2024-09-10 15:36:09.482 +01:00 [DBG] NATS Leafnode:   Name:     5CD148467Q
+2024-09-10 15:36:09.482 +01:00 [DBG] NATS Leafnode:   ID:       NBBJTDUQF7RQDPOGACJAZ66CH2KNUD7R4FQ6OWJSRSGNDLUPK2WUZBCF
+2024-09-10 15:36:09.482 +01:00 [DBG] NATS Leafnode: Using configuration file: C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Config\leaf.conf
+2024-09-10 15:36:09.483 +01:00 [DBG] NATS Leafnode: Listening for websocket clients on ws://127.0.0.1:20112
+2024-09-10 15:36:09.483 +01:00 [DBG] Started local WebSocket server on ws://127.0.0.1:20112
+2024-09-10 15:36:09.483 +01:00 [DBG] NATS Leafnode: Listening for client connections on 127.0.0.1:20111
+2024-09-10 15:36:09.484 +01:00 [DBG] NATS Leafnode: maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2024-09-10 15:36:09.507 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - Client connection created
+2024-09-10 15:36:09.619 +01:00 [INF] Started NATS server on nats://127.0.0.1:20111
+2024-09-10 15:36:09.693 +01:00 [DBG] 'OpenTap.Runner.5CD148467Q' starting and connecting to 'nats://127.0.0.1:20111'
+2024-09-10 15:36:09.694 +01:00 [DBG] No user credentials file path was set - connecting without authentication
+2024-09-10 15:36:09.695 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - Client connection created
+2024-09-10 15:36:09.699 +01:00 [DBG] This Runner is not registered (521FC255F36E6BF2)
+2024-09-10 15:36:09.779 +01:00 [DBG] Debug | Settings | No settings file exists for AuthenticationSettings. A new instance with default values has been created. [380 us]
+2024-09-10 15:36:09.782 +01:00 [DBG] Debug | Resolver | Found match for OpenTap.NATS.Service, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\OpenTap.NATS.Service.0.1.0.0\OpenTap.NATS.Service.dll
+2024-09-10 15:36:09.782 +01:00 [DBG] Debug | Resolver | Found match for OpenTap.NATS, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\OpenTap.NATS.0.1.0.0\OpenTap.NATS.dll
+2024-09-10 15:36:09.782 +01:00 [DBG] Debug | Resolver | Found match for NATS.Client, Version=1.0.3.0, Culture=neutral, PublicKeyToken=5b58bc7249e111a9 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\NATS.Client.1.0.8.0\NATS.Client.dll
+2024-09-10 15:36:09.782 +01:00 [DBG] Debug | Settings | No settings file exists for PackageManagerSettings. A new instance with default values has been created. [955 us]
+2024-09-10 15:36:09.782 +01:00 [DBG] Debug | Runner | This Runner is not registered (521FC255F36E6BF2)
+2024-09-10 15:36:09.782 +01:00 [DBG] Debug | Resolver | Found match for Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Newtonsoft.Json.12.0.0.0\Newtonsoft.Json.dll
+2024-09-10 15:36:09.888 +01:00 [DBG] Debug | AssemblyData | Loaded PackageManager. [4.54 ms]
+2024-09-10 15:36:09.890 +01:00 [DBG] Debug | AssemblyData | Loaded Editor. [3.82 ms]
+2024-09-10 15:36:09.894 +01:00 [DBG] Debug | AssemblyData | Loaded ResultsViewer. [4.75 ms]
+2024-09-10 15:36:09.894 +01:00 [DBG] Debug | AssemblyData | Loaded RunExplorer. [3.89 ms]
+2024-09-10 15:36:09.894 +01:00 [DBG] Debug | Settings | DutSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\DUTs.xml [2.00 ms]
+2024-09-10 15:36:09.894 +01:00 [DBG] Debug | Settings | InstrumentSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\Instruments.xml [743 us]
+2024-09-10 15:36:09.894 +01:00 [DBG] Debug | Settings | ConnectionSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\Connections.xml [704 us]
+2024-09-10 15:36:09.894 +01:00 [DBG] Debug | Settings | ResultSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Results.xml [709 us]
+2024-09-10 15:36:09.894 +01:00 [DBG] Debug | Settings | EditorSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Editor.xml [10.2 ms]
+2024-09-10 15:36:09.894 +01:00 [DBG] Debug | Settings | CloudDriveSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Cloud Drive.xml [1.77 ms]
+2024-09-10 15:36:09.912 +01:00 [INF] Runner version '1.9.2+48d2728c' started at 10/09-2024 14:36 UTC
+2024-09-10 15:36:09.914 +01:00 [INF] Runner ID: 5CD148467Q
+2024-09-10 15:36:09.915 +01:00 [INF] Press <CTRL>+C to stop
+2024-09-10 15:36:09.915 +01:00 [DBG] NATS Server: nats://127.0.0.1:20111
+2024-09-10 15:36:09.915 +01:00 [DBG] NATS Subject: OpenTap.Runner.5CD148467Q
+2024-09-10 15:36:09.915 +01:00 [DBG] Log path: C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs
+2024-09-10 15:36:09.915 +01:00 [DBG] This Runner is started manually
+2024-09-10 15:36:09.921 +01:00 [DBG] Running image deployment cleaner...
+2024-09-10 15:36:11.840 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:36:11.905 +01:00 [DBG] Debug | CLI | Executing CLI action: package \ check-updates
+2024-09-10 15:36:11.905 +01:00 [DBG] Debug | Resolver | Found match for OpenTap.Repository.Client, Version=4.17.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\OpenTap.Repository.Client.4.17.0.0\OpenTap.Repository.Client.dll
+2024-09-10 15:36:11.905 +01:00 [DBG] Debug | Resolver | Found match for System.Text.Json, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\System.Text.Json.4.0.1.0\System.Text.Json.dll
+2024-09-10 15:36:11.935 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:36:12.014 +01:00 [DBG] Debug | FilePackageRepository | Loading cache: .PackageCache.713F2BF9.120.xml [99.8 ms]
+2024-09-10 15:36:12.646 +01:00 [DBG] Information | UpdateCheck | Updates available for:
+2024-09-10 15:36:12.646 +01:00 [DBG] Information | UpdateCheck |  - Cloud Drive: 0.2.0+7e7541d6 -> 0.3.2+dc85e4bb
+2024-09-10 15:36:12.648 +01:00 [DBG] Information | UpdateCheck |  - WPF Controls: 9.24.1+b1af3ee5 -> 9.25.1+4647cbb3
+2024-09-10 15:36:12.648 +01:00 [DBG] Information | UpdateCheck |  - Editor: 9.24.1+b1af3ee5 -> 9.25.1+4647cbb3
+2024-09-10 15:36:12.648 +01:00 [DBG] Information | UpdateCheck |  - Results Viewer: 9.24.1+b1af3ee5 -> 9.25.1+4647cbb3
+2024-09-10 15:36:12.648 +01:00 [DBG] Information | UpdateCheck |  - OpenTAP: 9.24.2+bafe5eb4 -> 9.25.1+8c1dda48
+2024-09-10 15:36:12.648 +01:00 [DBG] Debug | CLI | CLI action returned exit code: 0 [743 ms]
+2024-09-10 15:36:22.466 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64703 - cid:6 - Client connection created
+2024-09-10 15:36:22.543 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Request.StartSession request started.
+2024-09-10 15:36:22.549 +01:00 [DBG] Session was started by Unknown (3 ms)
+2024-09-10 15:36:22.774 +01:00 [DBG] Debug | AssemblyFinder | Found 25/104 assembly files. [26.5 ms]
+2024-09-10 15:36:22.775 +01:00 [DBG] Debug | Resolver | Found match for System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\System.Memory.4.0.1.1\System.Memory.dll
+2024-09-10 15:36:23.605 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64704 - cid:7 - Client connection created
+2024-09-10 15:36:23.919 +01:00 [DBG] Session started (1372 ms)
+2024-09-10 15:36:23.919 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Request.StartSession request processed. (1375 ms)
+2024-09-10 15:36:23.997 +01:00 [DBG] Debug | Resolver | Found match for NJsonSchema, Version=10.6.10.0, Culture=neutral, PublicKeyToken=c2f9c3bdfae56102 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\NJsonSchema.10.6.10.0\NJsonSchema.dll
+2024-09-10 15:36:23.997 +01:00 [DBG] Debug | Resolver | Found match for Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Newtonsoft.Json.12.0.0.0\Newtonsoft.Json.dll
+2024-09-10 15:36:24.768 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64703 - cid:6 - "v1.0.8.0:.NET" - Client Ping Timer
+2024-09-10 15:36:25.164 +01:00 [INF] 452780b2-f0c8-41ad.. | Executing TestPlan
+2024-09-10 15:36:25.168 +01:00 [DBG] Runner               | Running TestPlan(s)
+2024-09-10 15:36:25.710 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64704 - cid:7 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q.Session.452780b2-f0c8-41ad-b942-0f69612ee721" - Client Ping Timer
+2024-09-10 15:36:32.016 +01:00 [INF] 452780b2-f0c8-41ad.. | Idle
+2024-09-10 15:36:32.020 +01:00 [DBG] Runner               | No running TestPlan(s)
+2024-09-10 15:36:32.232 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Request.ShutdownSession request started.
+2024-09-10 15:36:32.233 +01:00 [DBG] Runner               | Shutdown signal sent to 452780b2-f0c8-41ad-b942-0f69612ee721
+2024-09-10 15:36:32.233 +01:00 [INF] 452780b2-f0c8-41ad.. | Session stopped
+2024-09-10 15:36:32.235 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Request.ShutdownSession request processed. (2 ms)
+2024-09-10 15:36:33.278 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64704 - cid:7 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q.Session.452780b2-f0c8-41ad-b942-0f69612ee721" - Client connection closed: Client Closed
+2024-09-10 15:36:56.856 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:36:56.856 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 1s ago
+2024-09-10 15:36:56.950 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:36:56.951 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:37:09.775 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64703 - cid:6 - "v1.0.8.0:.NET" - Client Ping Timer
+2024-09-10 15:37:09.775 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64703 - cid:6 - "v1.0.8.0:.NET" - Delaying PING due to client activity 38s ago
+2024-09-10 15:37:41.861 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:37:41.861 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 1s ago
+2024-09-10 15:37:41.956 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:37:41.956 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:37:54.778 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64703 - cid:6 - "v1.0.8.0:.NET" - Client Ping Timer
+2024-09-10 15:38:22.791 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64801 - cid:8 - Client connection created
+2024-09-10 15:38:22.808 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Request.StartSession request started.
+2024-09-10 15:38:22.808 +01:00 [DBG] Session was started by Unknown (0 ms)
+2024-09-10 15:38:23.845 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64802 - cid:9 - Client connection created
+2024-09-10 15:38:24.131 +01:00 [DBG] Session started (1322 ms)
+2024-09-10 15:38:24.131 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Request.StartSession request processed. (1322 ms)
+2024-09-10 15:38:24.932 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64801 - cid:8 - "v1.0.8.0:.NET" - Client Ping Timer
+2024-09-10 15:38:25.105 +01:00 [INF] 78db5889-5e36-4569.. | Executing TestPlan
+2024-09-10 15:38:25.108 +01:00 [DBG] Runner               | Running TestPlan(s)
+2024-09-10 15:38:26.049 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64802 - cid:9 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q.Session.78db5889-5e36-4569-b1f0-f98476291d3d" - Client Ping Timer
+2024-09-10 15:38:26.870 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:38:26.870 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 1s ago
+2024-09-10 15:38:26.964 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:38:26.964 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:38:31.032 +01:00 [INF] 78db5889-5e36-4569.. | Idle
+2024-09-10 15:38:31.036 +01:00 [DBG] Runner               | No running TestPlan(s)
+2024-09-10 15:38:31.235 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Request.ShutdownSession request started.
+2024-09-10 15:38:31.235 +01:00 [DBG] Runner               | Shutdown signal sent to 78db5889-5e36-4569-b1f0-f98476291d3d
+2024-09-10 15:38:31.235 +01:00 [INF] 78db5889-5e36-4569.. | Session stopped
+2024-09-10 15:38:31.237 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Request.ShutdownSession request processed. (1 ms)
+2024-09-10 15:38:32.261 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64802 - cid:9 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q.Session.78db5889-5e36-4569-b1f0-f98476291d3d" - Client connection closed: Client Closed
+2024-09-10 15:38:39.780 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64703 - cid:6 - "v1.0.8.0:.NET" - Client Ping Timer
+2024-09-10 15:38:39.780 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64703 - cid:6 - "v1.0.8.0:.NET" - Delaying PING due to remote ping 17s ago
+2024-09-10 15:38:52.409 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64703 - cid:6 - "v1.0.8.0:.NET" - Client connection closed: Read Error
+2024-09-10 15:38:52.409 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64801 - cid:8 - "v1.0.8.0:.NET" - Client connection closed: Read Error
+2024-09-10 15:39:11.871 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:39:11.871 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 1s ago
+2024-09-10 15:39:11.965 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:39:11.967 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:39:56.879 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:39:56.880 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 1s ago
+2024-09-10 15:39:56.972 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:39:56.972 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:40:41.890 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:40:41.893 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 0s ago
+2024-09-10 15:40:41.984 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:40:41.984 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:41:26.900 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:41:26.901 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 0s ago
+2024-09-10 15:41:26.996 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:41:26.996 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:42:11.911 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:42:11.914 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 15s ago
+2024-09-10 15:42:12.005 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:42:12.005 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:42:56.912 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:42:56.912 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 15s ago
+2024-09-10 15:42:57.007 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:42:57.008 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:43:41.913 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:43:41.913 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 15s ago
+2024-09-10 15:43:42.022 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:43:42.022 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:44:26.918 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:44:26.918 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 14s ago
+2024-09-10 15:44:27.029 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:44:27.029 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:45:11.934 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:45:11.934 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 14s ago
+2024-09-10 15:45:12.043 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:45:12.043 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:45:56.935 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:45:56.936 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 14s ago
+2024-09-10 15:45:57.046 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:45:57.046 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:46:41.945 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:46:41.946 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 14s ago
+2024-09-10 15:46:42.056 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:46:42.056 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:47:26.957 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:47:26.958 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 13s ago
+2024-09-10 15:47:27.067 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:47:27.067 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:48:11.965 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:48:11.965 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 13s ago
+2024-09-10 15:48:12.074 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:48:12.074 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:48:56.975 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:48:56.977 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 13s ago
+2024-09-10 15:48:57.085 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:48:57.085 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:49:41.990 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:49:41.990 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 13s ago
+2024-09-10 15:49:42.086 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:49:42.086 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:50:26.997 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:50:26.997 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 12s ago
+2024-09-10 15:50:27.094 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:50:27.095 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:51:12.001 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:51:12.001 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 12s ago
+2024-09-10 15:51:12.111 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:51:12.111 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:51:57.005 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:51:57.005 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 12s ago
+2024-09-10 15:51:57.115 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:51:57.116 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:52:42.012 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:52:42.014 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 12s ago
+2024-09-10 15:52:42.123 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:52:42.123 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:53:27.015 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:53:27.015 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 11s ago
+2024-09-10 15:53:27.141 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:53:27.141 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:54:12.032 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:54:12.033 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 11s ago
+2024-09-10 15:54:12.156 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:54:12.156 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:54:57.047 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:54:57.048 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 11s ago
+2024-09-10 15:54:57.171 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:54:57.172 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:55:42.059 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:55:42.060 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 11s ago
+2024-09-10 15:55:42.185 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:55:42.186 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:56:27.074 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:56:27.074 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 11s ago
+2024-09-10 15:56:27.200 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:56:27.200 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:57:12.083 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:57:12.083 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 10s ago
+2024-09-10 15:57:12.210 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:57:12.210 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago
+2024-09-10 15:57:57.089 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Client Ping Timer
+2024-09-10 15:57:57.089 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64698 - cid:5 - "v1.0.8.0:.NET:OpenTap.Runner.5CD148467Q" - Delaying PING due to client activity 10s ago
+2024-09-10 15:57:57.215 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Client Ping Timer
+2024-09-10 15:57:57.215 +01:00 [DBG] NATS Leafnode: 127.0.0.1:64697 - cid:4 - "v1.0.8.0:.NET:RunnerLeafNode" - Delaying PING due to remote ping 2s ago

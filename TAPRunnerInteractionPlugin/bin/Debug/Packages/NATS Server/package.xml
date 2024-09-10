@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package Name="NATS Server" OS="Windows" InfoLink="https://nats.io" Date="10/23/2023 12:34:47" Version="1.1.0+0b98c8aa" Architecture="x64" xmlns="http://opentap.io/schemas/package">
+  <Files>
+    <File Path="Packages/NATS Server/LICENSE">
+      <Hash>7DF059597099BB7DCF25D2A9AEDFAF4465F72D8D</Hash>
+    </File>
+    <File Path="Packages/NATS Server/nats-server.exe">
+      <Hash>20230D3C038C2896996DB81B3DBFFAA1E8C0897A</Hash>
+    </File>
+  </Files>
+  <Hash>NnF8zbmxfBLmm35mRgqfWOfyRnE</Hash>
+  <Description>This package adds NATS server version 2.9.6 binaries to the OpenTAP installation. 
+        Used by e.g. the Runner package to run a NATS leaf node for a more robust connection to the cloud.
+        NATS is a simple, secure and performant communications system for digital systems, services and devices. 
+        NATS is part of the Cloud Native Computing Foundation (CNCF). 
+        NATS has over 40 client language implementations, and its server can run on-premise, in the cloud, at the edge, 
+        and even on a Raspberry Pi. NATS can secure and simplify design and operation of modern distributed systems.</Description>
+</Package>

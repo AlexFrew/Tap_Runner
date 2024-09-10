@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CloudDriveSettings type="Keysight.OpenTap.CloudDrive.CloudDriveSettings">
+  <ServerName>test-automation.pw.keysight.com</ServerName>
+  <AuthorityString />
+  <Realm>PathWave</Realm>
+  <ClientId>clt-test-automation-desktop</ClientId>
+  <RedirectUrl>http://localhost:32123/</RedirectUrl>
+  <ClientSecret></ClientSecret>
+  <Package.Dependencies>
+    <Package Name="Cloud Drive" Version="^0.2.0+7e7541d6" />
+    <Package Name="OpenTAP" Version="^9.24.2+bafe5eb4" />
+  </Package.Dependencies>
+</CloudDriveSettings>

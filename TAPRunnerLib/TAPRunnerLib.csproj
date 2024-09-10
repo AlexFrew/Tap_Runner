@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.4.10" />
+    <PackageReference Include="OpenTAP" Version="9.25.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TapRunnerDll\TapRunnerDll.csproj" />
+    <ProjectReference Include="..\TAPRunnerInteractionPlugin\TAPRunnerInteractionPlugin.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Keysight.Aes.Asf">
+      <HintPath>..\..\..\..\Documents\tap.gui\packages\Keysight.Aes.Asf.2019.5.13.2\lib\net452\Keysight.Aes.Asf.dll</HintPath>
+    </Reference>
+    <Reference Include="Keysight.Ccl.Wsl">
+      <HintPath>..\..\..\..\Documents\tap.gui\packages\Keysight.Ccl.Wsl.4.0.1-rc1\lib\net452\Keysight.Ccl.Wsl.dll</HintPath>
+    </Reference>
+    <Reference Include="MahApps.Metro">
+      <HintPath>..\..\..\Documents\tap.gui\packages\Keysight.Ccl.Wsl.4.0.1-rc1\lib\net452\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions">
+      <HintPath>..\..\..\..\Documents\tap.gui\packages\Keysight.Ccl.Wsl.4.0.1-rc1\lib\net452\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Interactivity">
+      <HintPath>..\..\..\..\Documents\tap.gui\packages\Keysight.Ccl.Wsl.4.0.1-rc1\lib\net452\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="ExternalDll\Keysight.Aes.Asf.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="ExternalDll\Keysight.Ccl.Wsl.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="ExternalDll\MahApps.Metro.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="ExternalDll\Microsoft.Expression.Interactions.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="ExternalDll\System.Windows.Interactivity.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

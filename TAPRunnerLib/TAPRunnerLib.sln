@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAPRunnerLib", "TAPRunnerLib.csproj", "{7BB62565-D163-4049-A614-1A85E08E1E3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAPRunnerInteractionPlugin", "..\TAPRunnerInteractionPlugin\TAPRunnerInteractionPlugin.csproj", "{0667FDB8-20C0-49EA-89D8-E4260F7D3BF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TapRunnerDll", "..\TapRunnerDll\TapRunnerDll.csproj", "{A89463A1-4779-4940-A114-94A21F045B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB62565-D163-4049-A614-1A85E08E1E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB62565-D163-4049-A614-1A85E08E1E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB62565-D163-4049-A614-1A85E08E1E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB62565-D163-4049-A614-1A85E08E1E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0667FDB8-20C0-49EA-89D8-E4260F7D3BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0667FDB8-20C0-49EA-89D8-E4260F7D3BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0667FDB8-20C0-49EA-89D8-E4260F7D3BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0667FDB8-20C0-49EA-89D8-E4260F7D3BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89463A1-4779-4940-A114-94A21F045B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89463A1-4779-4940-A114-94A21F045B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89463A1-4779-4940-A114-94A21F045B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89463A1-4779-4940-A114-94A21F045B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21AF85D0-D234-45C0-9121-D6B393E0C0CF}
+	EndGlobalSection
+EndGlobal

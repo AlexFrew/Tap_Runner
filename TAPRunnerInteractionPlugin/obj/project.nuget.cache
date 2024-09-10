@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNTTyGsd/l0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerInteractionPlugin\\TAPRunnerInteractionPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gumoreau\\.nuget\\packages\\opentap\\9.24.2\\opentap.9.24.2.nupkg.sha512"
+  ],
+  "logs": []
+}

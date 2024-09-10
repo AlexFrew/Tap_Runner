@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResultSettings type="OpenTap.ResultSettings">
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.24.2+bafe5eb4" />
+  </Package.Dependencies>
+</ResultSettings>

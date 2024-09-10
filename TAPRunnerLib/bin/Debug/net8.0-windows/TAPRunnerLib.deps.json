@@ -1,0 +1,245 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TAPRunnerLib/1.0.0": {
+        "dependencies": {
+          "MahApps.Metro": "2.4.10",
+          "OpenTAP": "9.25.0",
+          "TAPRunnerInteractionPlugin": "1.0.0",
+          "TapRunnerDll": "1.0.0",
+          "Keysight.Aes.Asf": "1.0.7072.26983",
+          "Keysight.Ccl.Wsl": "4.0.1.9",
+          "Microsoft.Expression.Interactions": "4.5.0.0",
+          "System.Windows.Interactivity": "4.5.0.0"
+        },
+        "runtime": {
+          "TAPRunnerLib.dll": {}
+        }
+      },
+      "ControlzEx/4.4.0": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.19",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ControlzEx.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.4.0.50"
+          }
+        }
+      },
+      "MahApps.Metro/2.4.10": {
+        "dependencies": {
+          "ControlzEx": "4.4.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MahApps.Metro.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.4.10.1"
+          }
+        },
+        "resources": {
+          "lib/netcoreapp3.1/de/MahApps.Metro.resources.dll": {
+            "locale": "de"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.19.35512"
+          }
+        }
+      },
+      "NATS.Client/1.0.8": {
+        "runtime": {
+          "lib/netstandard2.0/NATS.Client.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "OpenTAP/9.25.0": {
+        "runtime": {
+          "lib/netstandard2.0/OpenTap.dll": {
+            "assemblyVersion": "9.25.0.0",
+            "fileVersion": "9.25.0.0"
+          }
+        }
+      },
+      "OpenTAP.Runner.Client/2.4.0": {
+        "dependencies": {
+          "NATS.Client": "1.0.8",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OpenTap.NATS.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          },
+          "lib/netstandard2.0/OpenTap.Runner.Client.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      },
+      "System.Text.Json/4.7.2": {},
+      "TapRunnerDll/1.0.0": {
+        "dependencies": {
+          "OpenTAP": "9.25.0",
+          "OpenTAP.Runner.Client": "2.4.0"
+        },
+        "runtime": {
+          "TapRunnerDll.dll": {}
+        }
+      },
+      "TAPRunnerInteractionPlugin/1.0.0": {
+        "dependencies": {
+          "OpenTAP": "9.25.0"
+        },
+        "runtime": {
+          "TAPRunnerInteractionPlugin.dll": {}
+        }
+      },
+      "Keysight.Aes.Asf/1.0.7072.26983": {
+        "runtime": {
+          "Keysight.Aes.Asf.dll": {
+            "assemblyVersion": "1.0.7072.26983",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Keysight.Ccl.Wsl/4.0.1.9": {
+        "runtime": {
+          "Keysight.Ccl.Wsl.dll": {
+            "assemblyVersion": "4.0.1.9",
+            "fileVersion": "4.0.1.9"
+          }
+        }
+      },
+      "Microsoft.Expression.Interactions/4.5.0.0": {
+        "runtime": {
+          "Microsoft.Expression.Interactions.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          }
+        }
+      },
+      "System.Windows.Interactivity/4.5.0.0": {
+        "runtime": {
+          "System.Windows.Interactivity.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TAPRunnerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlzEx/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pZ5z4hYWwE4R13UMCVs6vII//nL7hz+Nwn4oJlnsZJRGqJNy6Z9KnJiTZfly6lKFu0pMc1aWBZpx+VqFTQKP1Q==",
+      "path": "controlzex/4.4.0",
+      "hashPath": "controlzex.4.4.0.nupkg.sha512"
+    },
+    "MahApps.Metro/2.4.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-45exHKJCVYaD1/rNr3ekZPECEBM4uHOt6aYp6yNaJbliFMUo+d3z8Gi1xG+qEkbiHKITX+dlz+BW1FOsjAbl/w==",
+      "path": "mahapps.metro/2.4.10",
+      "hashPath": "mahapps.metro.2.4.10.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5sPWkbqImc2t1aQwIfJcKsUo7tOg1Tr8+6xVzZJB56Nzt4u9NlpcLofgdX/aRYpPKdWDA3U23Akw1KQzU5e82g==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.19",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
+    },
+    "NATS.Client/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-veCbjEU6jxK7HUlLtQU9dTufR835VD97BskiXhrODcQ0LnV1NQEB80b9XdzUOE3XQktpiK8zQLG11b1T4ITZ3g==",
+      "path": "nats.client/1.0.8",
+      "hashPath": "nats.client.1.0.8.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "OpenTAP/9.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X+5JNbskkDwYJH2Z/TvHxxYB0LPo6eh91b3xT6XC3L/42X+7EEVqX/InV/8p2ucFWZKtEnkJmfMCAhLXGJqwPA==",
+      "path": "opentap/9.25.0",
+      "hashPath": "opentap.9.25.0.nupkg.sha512"
+    },
+    "OpenTAP.Runner.Client/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n7SFVecx8MPYb3dejv/d779nRCFrLdbAniZio3peXLVo5fiJMq6Fi7zfmUV4KjhgHxieVn5wFr/5IlqZ088zHQ==",
+      "path": "opentap.runner.client/2.4.0",
+      "hashPath": "opentap.runner.client.2.4.0.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    },
+    "TapRunnerDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TAPRunnerInteractionPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Keysight.Aes.Asf/1.0.7072.26983": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Keysight.Ccl.Wsl/4.0.1.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Expression.Interactions/4.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Interactivity/4.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

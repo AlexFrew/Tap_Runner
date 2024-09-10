@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package InfoLink="http://www.keysight.com/find/TAP" Date="05/27/2024 12:18:56" LicenseRequired="TAP_Editor|KS8400A|TAP_Engine|KS8000A" Name="Editor" Version="9.24.1+b1af3ee5" Architecture="x64" OS="Windows" xmlns="http://opentap.io/schemas/package">
+  <Hash>UfeISRr5S9knTeEjbmr-5g44f0A</Hash>
+  <Description>The Test Plan Editor is a graphical user interface (GUI) that consists of a set of user panels that make it possible to quickly construct test plans consisting of multiple test steps. Furthermore, it allows the assignment of resources such as DUTs and instruments as well as result storage. It lets you control test plan execution, monitor progress and log output.
+    <Status>Released</Status><Organisation>Keysight Technologies</Organisation></Description>
+  <Dependencies>
+    <PackageDependency Package="OSIntegration" Version="^1" />
+    <PackageDependency Package="OpenTAP" Version="^9.24.2+bafe5eb4" />
+    <PackageDependency Package="Keysight Licensing" Version="^1.4.5+2bd4be43" />
+    <PackageDependency Package="WPF Controls" Version="^9.24.1+b1af3ee5" />
+  </Dependencies>
+  <Owner>Keysight Technologies, Inc.</Owner>
+  <Files>
+    <File Path="EditorHelp.chm">
+      <Hash>53922C32098083ED72751D2918A8E83A071AAA0E</Hash>
+    </File>
+    <File Path="Editor.exe" LicenseRequired="TAP_Editor|KS8400A|TAP_Engine|KS8000A">
+      <Plugins>
+        <Plugin Type="Keysight.OpenTap.Gui.PanelSettings" BaseType="Component Settings">
+          <Name>GUI Panels</Name>
+          <Order>-10000</Order>
+          <Browsable>false</Browsable>
+          <Description />
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.EditorCliAction" BaseType="ICliAction">
+          <Name>editor</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Starts the Editor GUI</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.LogPanelPlugin" BaseType="ITapDockPanel">
+          <Name>Log</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Log Panel</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.StepExplorerPlugin" BaseType="ITapDockPanel">
+          <Name>Test Steps</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Shows the available steps.</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.StepSettingsPlugin" BaseType="ITapDockPanel">
+          <Name>Test Step Settings</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Step Settings Panel</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.TestPlanGridListener" BaseType="Result Listener">
+          <Name>TestPlanGridListener</Name>
+          <Order>-10000</Order>
+          <Browsable>false</Browsable>
+          <Description></Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.TestPlanPlugin" BaseType="ITapDockPanel">
+          <Name>Test Plan</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Test Plan Panel</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.TestPlanSettings" BaseType="ITapDockPanel">
+          <Name>Test Plan Settings</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Show the settings of the test plan.</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.PackageManagerToolProvider" BaseType="ToolProvider">
+          <Name>Package Manager</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description />
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.RunExplorerToolProvider" BaseType="ToolProvider">
+          <Name>Run Explorer</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Open the Run Explorer Tool.</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.ResultViewerToolProvider" BaseType="ToolProvider">
+          <Name>Results Viewer</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Open the Results Viewer, showing the most recent test plan runs result.</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Gui.ToolMenuEntry" BaseType="Menu Item">
+          <Name>ToolMenuEntry</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description></Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+      </Plugins>
+      <StartMenuEntry Group="Keysight Test Automation" Name="Keysight Test Automation" Args=""></StartMenuEntry>
+      <FileAssociation Verb="Open" Extension=".TapPlan" Description="TAP Test Plan" Args="--launch"></FileAssociation>
+      <FileAssociation Verb="Install" Extension=".TapPackage" Description="TAP Package" Args="--launch"></FileAssociation>
+      <FileAssociation Verb="Install" Extension=".TapPackages" Description="TAP Packages" Args="--launch"></FileAssociation>
+      <Hash>DB21E793BEBEAA2E7874E6ED8ABB26D95B9E32C8</Hash>
+    </File>
+    <File Path="PackageManager.exe">
+      <Plugins>
+        <Plugin Type="Keysight.OpenTap.Package.Gui.GuiAction" BaseType="ICliAction">
+          <Name>packagemanager</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Starts the Package Manager GUI.</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Package.Gui.PackageManagerGuiSettings" BaseType="Component Settings">
+          <Name>Package Manager GUI</Name>
+          <Order>-10000</Order>
+          <Browsable>false</Browsable>
+          <Description />
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.Package.Gui.RepositoryListProvider" BaseType="Control Provider">
+          <Name>RepositoryListProvider</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description></Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+      </Plugins>
+      <StartMenuEntry Group="Keysight Test Automation" Name="Keysight Package Manager" Args=""></StartMenuEntry>
+      <Hash>E69D0C2B2920D5BFED1056279DC208BA9697B850</Hash>
+    </File>
+    <File Path="Packages/Editor/System.Security.Principal.Windows.dll">
+      <Hash>9A5BE1FCF410FE5934D720329D36A2377E83747E</Hash>
+    </File>
+    <File Path="Dependencies/AvalonDock.4.60.0.0/AvalonDock.dll">
+      <Hash>5834738B9882DCBC37760AA5D66517699A454262</Hash>
+    </File>
+  </Files>
+</Package>

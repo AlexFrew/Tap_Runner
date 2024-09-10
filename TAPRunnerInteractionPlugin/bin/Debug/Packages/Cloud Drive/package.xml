@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package InfoLink="" Date="03/15/2023 11:35:27" Name="Cloud Drive" Version="0.2.0+7e7541d6" Architecture="AnyCPU" OS="Windows,Linux,MacOS" xmlns="http://opentap.io/schemas/package">
+  <Hash>obC41478b3kBiq7lJUym1dVyeKM</Hash>
+  <Description>Integration with Keysight's Cloud Drive. Allows sharing Test Plans and their dependencies in the cloud.</Description>
+  <Dependencies>
+    <PackageDependency Package="OpenTAP" Version="^9.20.0-beta.36+19704d7d" />
+  </Dependencies>
+  <Files>
+    <File Path="Packages/Cloud Drive/Keysight.OpenTap.CloudDrive.dll">
+      <Plugins>
+        <Plugin Type="Keysight.OpenTap.CloudDrive.CloudDependenciesSerializer" BaseType="Serializer">
+          <Name>CloudDependenciesSerializer</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description></Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.CloudDrive.CloudDriveSettings" BaseType="Component Settings">
+          <Name>Cloud Drive</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description />
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.CloudDrive.CliActions.Delete" BaseType="ICliAction">
+          <Name>delete</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Deletes a remote file.</Description>
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>cloud</String>
+          </Groups>
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.CloudDrive.CliActions.Download" BaseType="ICliAction">
+          <Name>download</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description />
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>cloud</String>
+          </Groups>
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.CloudDrive.CliActions.ListFiles" BaseType="ICliAction">
+          <Name>list</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>list files belonging to the logged in user</Description>
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>cloud</String>
+          </Groups>
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.CloudDrive.CliActions.Login" BaseType="ICliAction">
+          <Name>login</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description />
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>cloud</String>
+          </Groups>
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.CloudDrive.CliActions.Upload" BaseType="ICliAction">
+          <Name>upload</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description />
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>cloud</String>
+          </Groups>
+        </Plugin>
+      </Plugins>
+      <Hash>460623776CEDD152CB89D8322C1BA9887BF02D5B</Hash>
+    </File>
+  </Files>
+</Package>

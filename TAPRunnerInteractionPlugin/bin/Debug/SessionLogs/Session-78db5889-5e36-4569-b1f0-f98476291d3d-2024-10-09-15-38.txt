@@ -1,0 +1,118 @@
+﻿2024-09-10 15:38:23.108897 ; Session        ; Debug       ; Session log loaded as 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs\tap 2024-09-10 15-38-22.txt'. [1.71 ms]
+2024-09-10 15:38:23.131750 ; Session        ; Debug       ; Running '"C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\tap.exe" runner session --id 78db5889-5e36-4569-b1f0-f98476291d3d --nats-server nats://127.0.0.1:20111 --log "C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs" --runner-id "5CD148467Q"' in 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug'.
+2024-09-10 15:38:23.180109 ; AssemblyFinder ; Debug       ; Found 25/104 assembly files. [31.7 ms]
+2024-09-10 15:38:23.192109 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2024-09-10 15:38:23.214657 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2024-09-10 15:38:23.310874 ; Searcher       ; Debug       ; Ordered 21 assemblies according to references. [107 ms]
+2024-09-10 15:38:23.365269 ; PluginManager  ; Debug       ; Found 17 plugin assemblies containing 288 plugin types. [163 ms]
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.24.2+bafe5eb4  of OpenTap.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.24.2+bafe5eb4  of OpenTap.Package.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 0.0.0            of Keysight.OpenTap.Licensing.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.24.2+bafe5eb4  of OpenTap.Plugins.BasicSteps.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.24.1+b1af3ee5  of Keysight.OpenTap.Wpf.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.24.1+b1af3ee5  of PackageManager.exe
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.24.1+b1af3ee5  of Editor.exe
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.13.0+ee94eeff  of Csv.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.24.1+b1af3ee5  of ResultsViewer.exe
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.24.1+b1af3ee5  of RunExplorer.exe
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 0.0.0            of TAPRunnerInteractionPlugin.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 0.2.0+7e7541d6   of Keysight.OpenTap.CloudDrive.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 1.9.2+48d2728c   of OpenTap.Runner.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2024-09-10 15:38:23.366239 ; PluginManager  ; Debug       ; Searched 25 Assemblies. [165 ms]
+2024-09-10 15:38:23.382968 ; AssemblyData   ; Debug       ; Loaded OpenTap. [290 us]
+2024-09-10 15:38:23.393933 ; AssemblyData   ; Debug       ; Loaded Keysight.OpenTap.Wpf. [4.37 ms]
+2024-09-10 15:38:23.411511 ; SystemInfo     ; Debug       ; Microsoft Windows 10.0.19045 X64
+2024-09-10 15:38:23.411511 ; SystemInfo     ; Debug       ; .NET Framework 4.8.9261.0
+2024-09-10 15:38:23.411511 ; SystemInfo     ; Debug       ; OpenTAP Engine 9.24.2+bafe5eb4 X64
+2024-09-10 15:38:23.415514 ; AssemblyData   ; Debug       ; Loaded OpenTap.Package. [4.11 ms]
+2024-09-10 15:38:23.429512 ; AssemblyData   ; Debug       ; Loaded Keysight.OpenTap.CloudDrive. [5.03 ms]
+2024-09-10 15:38:23.429512 ; AssemblyData   ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [5.06 ms]
+2024-09-10 15:38:23.449514 ; AssemblyData   ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [4.12 ms]
+2024-09-10 15:38:23.463514 ; AssemblyData   ; Debug       ; Loaded OpenTap.Runner. [4.25 ms]
+2024-09-10 15:38:23.495113 ; AssemblyData   ; Debug       ; Loaded mscorlib. [400 ns]
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; Cloud Drive                      - 0.2.0+7e7541d6
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; CSV                              - 9.13.0+ee94eeff
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; Editor                           - 9.24.1+b1af3ee5
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; Keysight Licensing               - 1.4.5+2bd4be43
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; NATS Server                      - 1.1.0+0b98c8aa
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; OpenTAP                          - 9.24.2+bafe5eb4
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; OSIntegration                    - 1.4.2+15f32a31
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; Results Viewer                   - 9.24.1+b1af3ee5
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; Runner                           - 1.9.2+48d2728c
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; SQLite and PostgreSQL            - 9.4.2+3009aace
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; WPF Controls                     - 9.24.1+b1af3ee5
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; PathWave License Manager         - 2.7.0+398d3a87
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; PathWave License Manager Minimal - 1.1.2+0ff8f1b5
+2024-09-10 15:38:23.614536 ; Installation   ; Debug       ; VCRedist                         - 1.1.0+67bba1c4
+2024-09-10 15:38:23.629479 ; Settings       ; Debug       ; EngineSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Engine.xml [219 ms]
+2024-09-10 15:38:23.647250 ; Session        ; Debug       ; Session log loaded as 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs\SessionLog 2024-09-10 15-38-22.txt'. [3.23 ms]
+2024-09-10 15:38:23.666279 ; CLI            ; Debug       ; The CLI option '--log' from 'OpenTap.Runner.CliActions.SessionCliAction' overrides a common CLI option from OpenTAP.
+2024-09-10 15:38:23.667254 ; CLI            ; Debug       ; Executing CLI action: runner \ session
+2024-09-10 15:38:23.699054 ; Settings       ; Debug       ; No settings file exists for AuthenticationSettings. A new instance with default values has been created. [324 us]
+2024-09-10 15:38:23.703051 ; Resolver       ; Debug       ; Found match for Serilog, Version=2.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Serilog.2.0.0.0\Serilog.dll
+2024-09-10 15:38:23.709070 ; Resolver       ; Debug       ; Found match for NATS.Client, Version=1.0.8.0, Culture=neutral, PublicKeyToken=5b58bc7249e111a9 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\NATS.Client.1.0.8.0\NATS.Client.dll
+2024-09-10 15:38:23.714043 ; Resolver       ; Debug       ; Found match for OpenTap.NATS.Service, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\OpenTap.NATS.Service.0.1.0.0\OpenTap.NATS.Service.dll
+2024-09-10 15:38:23.719046 ; Resolver       ; Debug       ; Found match for OpenTap.NATS, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\OpenTap.NATS.0.1.0.0\OpenTap.NATS.dll
+2024-09-10 15:38:23.727065 ; Resolver       ; Debug       ; Found match for NATS.Client, Version=1.0.3.0, Culture=neutral, PublicKeyToken=5b58bc7249e111a9 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\NATS.Client.1.0.8.0\NATS.Client.dll
+2024-09-10 15:38:23.732041 ; Resolver       ; Debug       ; Found match for Serilog.Sinks.Console, Version=4.1.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Serilog.Sinks.Console.4.1.0.0\Serilog.Sinks.Console.dll
+2024-09-10 15:38:23.737055 ; Resolver       ; Debug       ; Found match for Serilog.Sinks.File, Version=5.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Serilog.Sinks.File.5.0.0.0\Serilog.Sinks.File.dll
+2024-09-10 15:38:23.770741 ; Resolver       ; Debug       ; Found match for Serilog.Formatting.Compact, Version=1.1.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Serilog.Formatting.Compact.1.1.0.0\Serilog.Formatting.Compact.dll
+2024-09-10 15:38:23.784792 ; Session        ; Debug       ; Session log loaded as 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs\Session-78db5889-5e36-4569-b1f0-f98476291d3d-2024-10-09-15-38.txt'. [3.22 ms]
+2024-09-10 15:38:23.788694 ; Session        ; Debug       ; Running '"C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\tap.exe" runner session --id 78db5889-5e36-4569-b1f0-f98476291d3d --nats-server nats://127.0.0.1:20111 --log "C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs" --runner-id "5CD148467Q"' in 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug'.
+2024-09-10 15:38:23.820312 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.00 ms]
+2024-09-10 15:38:23.864322 ; Runner         ; Debug       ; This Runner is not registered (521FC255F36E6BF2)
+2024-09-10 15:38:23.893429 ; AssemblyData   ; Debug       ; Loaded PackageManager. [4.38 ms]
+2024-09-10 15:38:23.897456 ; AssemblyData   ; Debug       ; Loaded Editor. [3.61 ms]
+2024-09-10 15:38:23.900451 ; AssemblyData   ; Debug       ; Loaded ResultsViewer. [3.51 ms]
+2024-09-10 15:38:23.904435 ; AssemblyData   ; Debug       ; Loaded RunExplorer. [3.42 ms]
+2024-09-10 15:38:23.906445 ; Settings       ; Debug       ; DutSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\DUTs.xml [1.85 ms]
+2024-09-10 15:38:23.907430 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\Instruments.xml [677 us]
+2024-09-10 15:38:23.908428 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\Connections.xml [634 us]
+2024-09-10 15:38:23.908428 ; Settings       ; Debug       ; ResultSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Results.xml [637 us]
+2024-09-10 15:38:23.918438 ; Settings       ; Debug       ; EditorSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Editor.xml [9.13 ms]
+2024-09-10 15:38:23.921456 ; Settings       ; Debug       ; CloudDriveSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Cloud Drive.xml [3.51 ms]
+2024-09-10 15:38:23.952546 ; Resolver       ; Debug       ; Found match for Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Newtonsoft.Json.12.0.0.0\Newtonsoft.Json.dll
+2024-09-10 15:38:23.995105 ; Resolver       ; Debug       ; Found match for NJsonSchema, Version=10.6.10.0, Culture=neutral, PublicKeyToken=c2f9c3bdfae56102 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\NJsonSchema.10.6.10.0\NJsonSchema.dll
+2024-09-10 15:38:24.000104 ; Resolver       ; Debug       ; Found match for Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Newtonsoft.Json.12.0.0.0\Newtonsoft.Json.dll
+2024-09-10 15:38:24.010070 ; Resolver       ; Debug       ; Found match for System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\System.Memory.4.0.1.1\System.Memory.dll
+2024-09-10 15:38:24.021067 ; Resolver       ; Debug       ; Found match for System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\System.Runtime.CompilerServices.Unsafe.6.0.0.0\System.Runtime.CompilerServices.Unsafe.dll
+2024-09-10 15:38:24.190097 ; AssemblyData   ; Debug       ; Loaded TAPRunnerInteractionPlugin. [3.70 ms]
+2024-09-10 15:38:24.945964 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2024-09-10 15:38:24.965689 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 09/10/2024 15:38:24, 3 of 3 TestSteps enabled.
+2024-09-10 15:38:24.991705 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2024-09-10 15:38:25.020713 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [122 us]
+2024-09-10 15:38:25.068695 ; TestPlan       ; Debug       ; Saved Test Plan XML [54.3 ms]
+2024-09-10 15:38:25.093433 ; TestPlan       ; Debug       ; "UserInteractionStep" PrePlanRun completed. [1.66 ms]
+2024-09-10 15:38:25.093433 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.57 ms]
+2024-09-10 15:38:25.104459 ; TestPlan       ; Information ; "Delay" started.
+2024-09-10 15:38:26.666092 ; CLI            ; Debug       ; Executing CLI action: package \ check-updates
+2024-09-10 15:38:26.669075 ; CLI            ; Debug       ; CLI action returned exit code: 0 [3.80 ms]
+2024-09-10 15:38:28.125661 ; TestPlan       ; Information ; "Delay" completed. [3.01 s]
+2024-09-10 15:38:28.126662 ; TestPlan       ; Information ; "Log Output" started.
+2024-09-10 15:38:28.128665 ; TestStep       ; Information ; This is a message from the testplan
+2024-09-10 15:38:28.128665 ; TestPlan       ; Information ; "Log Output" completed. [1.77 ms]
+2024-09-10 15:38:28.128936 ; TestPlan       ; Information ; "UserInteractionStep" started.
+2024-09-10 15:38:28.130463 ; TestStep       ; Information ; Result A+B: 101
+2024-09-10 15:38:28.130463 ; TestStep       ; Information ; Enum: Choice2
+2024-09-10 15:38:28.130463 ; TestStep       ; Information ; Bool :True
+2024-09-10 15:38:28.130463 ; TestStep       ; Information ; String : Example of string
+2024-09-10 15:38:28.130463 ; TestStep       ; Information ; double :  180
+2024-09-10 15:38:29.444421 ; TestStep       ; Information ; User clicked OK.
+2024-09-10 15:38:29.949925 ; TestStep       ; Information ; User clicked OK.
+2024-09-10 15:38:30.433308 ; TestStep       ; Information ; User clicked OK.
+2024-09-10 15:38:30.977689 ; TestStep       ; Information ; User clicked OK.
+2024-09-10 15:38:30.990343 ; TestStep       ; Information ; Publish done!
+2024-09-10 15:38:30.990343 ; TestPlan       ; Information ; "UserInteractionStep" completed with verdict 'Fail'. [2.86 s]
+2024-09-10 15:38:30.991341 ; TestPlan       ; Debug       ; Test step runs finished. [5.89 s]
+2024-09-10 15:38:30.996341 ; TestPlan       ; Debug       ; "UserInteractionStep" PostPlanRun completed. [157 us]
+2024-09-10 15:38:31.018180 ; Summary        ; Information ; ------- Summary of test plan started 09/10/2024 15:38:24 -------
+2024-09-10 15:38:31.021180 ; Summary        ; Information ;  Delay                                            3.01 s          
+2024-09-10 15:38:31.021180 ; Summary        ; Information ;  Log Output                                       1.77 ms         
+2024-09-10 15:38:31.021180 ; Summary        ; Information ;  UserInteractionStep                              2.86 s   Fail   
+2024-09-10 15:38:31.022179 ; Summary        ; Information ; ----------------------------------------------------------------
+2024-09-10 15:38:31.022179 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 5.97 s --------
+2024-09-10 15:38:32.261715 ; CLI            ; Debug       ; CLI action returned exit code: 0 [8.59 s]

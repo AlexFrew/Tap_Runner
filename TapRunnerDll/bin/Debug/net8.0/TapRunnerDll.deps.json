@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TapRunnerDll/1.0.0": {
+        "dependencies": {
+          "OpenTAP": "9.25.0",
+          "OpenTAP.Runner.Client": "2.4.0"
+        },
+        "runtime": {
+          "TapRunnerDll.dll": {}
+        }
+      },
+      "NATS.Client/1.0.8": {
+        "runtime": {
+          "lib/netstandard2.0/NATS.Client.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "OpenTAP/9.25.0": {
+        "runtime": {
+          "lib/netstandard2.0/OpenTap.dll": {
+            "assemblyVersion": "9.25.0.0",
+            "fileVersion": "9.25.0.0"
+          }
+        }
+      },
+      "OpenTAP.Runner.Client/2.4.0": {
+        "dependencies": {
+          "NATS.Client": "1.0.8",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OpenTap.NATS.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          },
+          "lib/netstandard2.0/OpenTap.Runner.Client.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TapRunnerDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NATS.Client/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-veCbjEU6jxK7HUlLtQU9dTufR835VD97BskiXhrODcQ0LnV1NQEB80b9XdzUOE3XQktpiK8zQLG11b1T4ITZ3g==",
+      "path": "nats.client/1.0.8",
+      "hashPath": "nats.client.1.0.8.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "OpenTAP/9.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X+5JNbskkDwYJH2Z/TvHxxYB0LPo6eh91b3xT6XC3L/42X+7EEVqX/InV/8p2ucFWZKtEnkJmfMCAhLXGJqwPA==",
+      "path": "opentap/9.25.0",
+      "hashPath": "opentap.9.25.0.nupkg.sha512"
+    },
+    "OpenTAP.Runner.Client/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n7SFVecx8MPYb3dejv/d779nRCFrLdbAniZio3peXLVo5fiJMq6Fi7zfmUV4KjhgHxieVn5wFr/5IlqZ088zHQ==",
+      "path": "opentap.runner.client/2.4.0",
+      "hashPath": "opentap.runner.client.2.4.0.nupkg.sha512"
+    }
+  }
+}

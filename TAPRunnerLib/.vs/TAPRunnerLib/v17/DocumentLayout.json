@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0667FDB8-20C0-49EA-89D8-E4260F7D3BF6}|..\\TAPRunnerInteractionPlugin\\TAPRunnerInteractionPlugin.csproj|c:\\users\\gumoreau\\documents\\taprunner\\taprunnerinteractionplugin\\myteststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89463A1-4779-4940-A114-94A21F045B8A}|..\\TapRunnerDll\\TapRunnerDll.csproj|c:\\users\\gumoreau\\documents\\taprunner\\taprunnerdll\\taprunnercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\TAPRunnerControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB62565-D163-4049-A614-1A85E08E1E3F}|TAPRunnerLib.csproj|c:\\users\\gumoreau\\documents\\taprunner\\taprunnerlib\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB62565-D163-4049-A614-1A85E08E1E3F}|TAPRunnerLib.csproj|solutionrelative:mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB62565-D163-4049-A614-1A85E08E1E3F}|TAPRunnerLib.csproj|c:\\users\\gumoreau\\documents\\taprunner\\taprunnerlib\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB62565-D163-4049-A614-1A85E08E1E3F}|TAPRunnerLib.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\AppData\\Local\\Temp\\.vsdbgsrc\\7f6adc20053214971845a918cdd405dd17b575d6ae77b6fa873ec02221351971\\VirtualizingStackPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\.nuget\\packages\\opentap\\9.24.2\\build\\OpenTap.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\Misc\\RandomExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\SettingsParameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\MyTestStep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\SettingsParameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TAPRunnerInteractionPlugin\\MyTestStep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTestStep.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "RelativeDocumentMoniker": "..\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "RelativeToolTip": "..\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAEwEwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:36:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TAPRunnerControl.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\Documents\\taprunner\\TapRunnerDll\\TAPRunnerControl.cs",
+              "RelativeDocumentMoniker": "..\\TapRunnerDll\\TAPRunnerControl.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\Documents\\taprunner\\TapRunnerDll\\TAPRunnerControl.cs",
+              "RelativeToolTip": "..\\TapRunnerDll\\TAPRunnerControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:26:32.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingsParameters.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\SettingsParameters.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\SettingsParameters.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\SettingsParameters.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\SettingsParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:23:07.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerLib\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerLib\\MainWindowViewModel.cs",
+              "RelativeToolTip": "MainWindowViewModel.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAASwGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:43:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyTestStep.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TAPRunnerControl\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TAPRunnerControl\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:38:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerLib\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerLib\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:01:06.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TAPRunnerControl.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\TAPRunnerControl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\TAPRunnerControl.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\TAPRunnerControl.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\TAPRunnerControl.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAgwJEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:59:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VirtualizingStackPanel.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\AppData\\Local\\Temp\\.vsdbgsrc\\7f6adc20053214971845a918cdd405dd17b575d6ae77b6fa873ec02221351971\\VirtualizingStackPanel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7f6adc20053214971845a918cdd405dd17b575d6ae77b6fa873ec02221351971\\VirtualizingStackPanel.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\AppData\\Local\\Temp\\.vsdbgsrc\\7f6adc20053214971845a918cdd405dd17b575d6ae77b6fa873ec02221351971\\VirtualizingStackPanel.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7f6adc20053214971845a918cdd405dd17b575d6ae77b6fa873ec02221351971\\VirtualizingStackPanel.cs",
+              "ViewState": "AQIAABYOAAAAAAAAAAAawDAOAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:57:16.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAKoSAAAAAAAAAAAiwLUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-01T13:52:31.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TAPRunnerInteractionPlugin\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TAPRunnerInteractionPlugin\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T13:49:37.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TAPRunnerControl.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:55:15.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpenTap.targets",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\.nuget\\packages\\opentap\\9.24.2\\build\\OpenTap.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\opentap\\9.24.2\\build\\OpenTap.targets",
+              "ToolTip": "C:\\Users\\gumoreau\\.nuget\\packages\\opentap\\9.24.2\\build\\OpenTap.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\opentap\\9.24.2\\build\\OpenTap.targets",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-01T10:31:57.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RandomExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\Misc\\RandomExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TAPRunnerInteractionPlugin\\Misc\\RandomExtensions.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\Misc\\RandomExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TAPRunnerInteractionPlugin\\Misc\\RandomExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:16:26.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsParameters.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\SettingsParameters.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TapRunnerDll\\SettingsParameters.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\SettingsParameters.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TapRunnerDll\\SettingsParameters.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:03:23.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TAPRunnerControl.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TapRunnerDll\\TAPRunnerControl.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAwDYBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:24:11.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyTestStep.cs",
+              "DocumentMoniker": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "ToolTip": "C:\\Users\\gumoreau\\source\\repos\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:35:48.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+2024-09-10 15:24:00.700432 ; Session        ; Debug       ; Session log loaded as 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs\MSBuild.27208 2024-09-10 15-23-53.txt'. [4.18 ms]
+2024-09-10 15:24:00.720427 ; Session        ; Debug       ; Running '"C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin\amd64\MSBuild.exe" /nologo /nodemode:1 /nodeReuse:true /low:false' in 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin'.
+2024-09-10 15:24:00.789043 ; AssemblyFinder ; Debug       ; Found 5/26 assembly files. [13.2 ms]
+2024-09-10 15:24:00.832041 ; Searcher       ; Debug       ; Ordered 5 assemblies according to references. [36.9 ms]
+2024-09-10 15:24:00.870047 ; PluginManager  ; Debug       ; Found 3 plugin assemblies containing 175 plugin types. [77.1 ms]
+2024-09-10 15:24:00.872042 ; PluginManager  ; Debug       ; Found version 9.24.2+bafe5eb4  of OpenTap.dll from C:\Users\gumoreau\.nuget\packages\opentap\9.24.2\build\payload\OpenTap.dll
+2024-09-10 15:24:00.872042 ; PluginManager  ; Debug       ; Found version 9.24.2+bafe5eb4  of OpenTap.Package.dll from C:\Users\gumoreau\.nuget\packages\opentap\9.24.2\build\payload\OpenTap.Package.dll
+2024-09-10 15:24:00.872042 ; PluginManager  ; Debug       ; Found version 9.24.2+bafe5eb4  of OpenTap.Plugins.BasicSteps.dll from C:\Users\gumoreau\.nuget\packages\opentap\9.24.2\build\payload\Packages\OpenTAP\OpenTap.Plugins.BasicSteps.dll
+2024-09-10 15:24:00.872042 ; PluginManager  ; Debug       ; Searched 5 Assemblies. [80.4 ms]
+2024-09-10 15:24:00.891042 ; AssemblyData   ; Debug       ; Loaded OpenTap. [644 us]
+2024-09-10 15:24:00.892047 ; AssemblyData   ; Debug       ; Loaded OpenTap.Package. [346 us]
+2024-09-10 15:24:00.894042 ; AssemblyData   ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [7.25 ms]
+2024-09-10 15:24:00.974708 ; AssemblyData   ; Debug       ; Loaded mscorlib. [300 ns]
+2024-09-10 15:24:00.991708 ; SystemInfo     ; Debug       ; Microsoft Windows 10.0.19045 X64
+2024-09-10 15:24:00.991708 ; SystemInfo     ; Debug       ; .NET Framework 4.8.9261.0
+2024-09-10 15:24:00.991708 ; SystemInfo     ; Debug       ; OpenTAP Engine 9.24.2+bafe5eb4 X64
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; Cloud Drive                      - 0.2.0+7e7541d6
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; CSV                              - 9.13.0+ee94eeff
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; Editor                           - 9.24.1+b1af3ee5
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; Keysight Licensing               - 1.4.5+2bd4be43
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; NATS Server                      - 1.1.0+0b98c8aa
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; OpenTAP                          - 9.24.2+bafe5eb4
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; OSIntegration                    - 1.4.2+15f32a31
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; Results Viewer                   - 9.24.1+b1af3ee5
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; Runner                           - 1.9.2+48d2728c
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; SQLite and PostgreSQL            - 9.4.2+3009aace
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; WPF Controls                     - 9.24.1+b1af3ee5
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; PathWave License Manager         - 2.7.0+398d3a87
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; PathWave License Manager Minimal - 1.1.2+0ff8f1b5
+2024-09-10 15:24:01.142196 ; Installation   ; Debug       ; VCRedist                         - 1.1.0+67bba1c4
+2024-09-10 15:24:01.167197 ; Resolver       ; Debug       ; Found match for OpenTap.Repository.Client, Version=4.17.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\gumoreau\.nuget\packages\opentap\9.24.2\build\payload\Dependencies\OpenTap.Repository.Client.4.17.0.0\OpenTap.Repository.Client.dll
+2024-09-10 15:24:01.211195 ; Settings       ; Debug       ; No settings file exists for AuthenticationSettings. A new instance with default values has been created. [278 us]
+2024-09-10 15:24:01.216196 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.11 ms]
+2024-09-10 15:24:01.557532 ; FilePackageRepository ; Debug       ; Rebuilding cache: .PackageCache.713F2BF9.120.xml [327 ms]
+2024-09-10 15:24:01.565531 ; Package Query  ; Debug       ; Read 120 packages from [FilePackageRepository: file:///C:/Users/gumoreau/AppData/Local/OpenTap/PackageCache] [342 ms]
+2024-09-10 15:24:02.805767 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","version":"","architecture":"x64","os":"Windows"} -> found 1451 packages. [1.23 s]
+2024-09-10 15:24:03.123939 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"OSIntegration","version":"alpha","architecture":"x64","os":"Windows"} -> found 1 packages. [293 ms]
+2024-09-10 15:24:03.506054 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"OpenTAP","version":"alpha","architecture":"x64","os":"Windows"} -> found 21 packages. [381 ms]
+2024-09-10 15:24:03.851231 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Licensing","version":"alpha","architecture":"x64","os":"Windows"} -> found 25 packages. [345 ms]
+2024-09-10 15:24:04.141614 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"WPF Controls","version":"alpha","architecture":"x64","os":"Windows"} -> found 8 packages. [289 ms]
+2024-09-10 15:24:04.414031 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"PathWave Licensing","version":"rc","architecture":"x64","os":"Windows"} -> found 6 packages. [271 ms]
+2024-09-10 15:24:04.645375 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Floating Licensing","version":"rc","architecture":"x64","os":"Windows"} -> found 6 packages. [231 ms]
+2024-09-10 15:24:04.915120 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Fixed Licensing","version":"rc","architecture":"x64","os":"Windows"} -> found 6 packages. [268 ms]
+2024-09-10 15:24:05.217040 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"CSV","version":"alpha","architecture":"x64","os":"Windows"} -> found 5 packages. [301 ms]
+2024-09-10 15:24:05.486484 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Cloud Drive","version":"alpha","architecture":"x64","os":"Windows"} -> found 11 packages. [269 ms]
+2024-09-10 15:24:05.510463 ; image          ; Debug       ; Resolved image: Editor:9, OpenTAP:9.24.2+bafe5eb4, Cloud Drive:^0.2.0+7e7541d6, CSV:^9.13.0+ee94eeff, Keysight Licensing:^1.4.5+2bd4be43, NATS Server:^1.1.0+0b98c8aa, OSIntegration:^1.4.2+15f32a31, Results Viewer:^9.24.1+b1af3ee5, Runner:^1.9.2+48d2728c, SQLite and PostgreSQL:^9.4.2+3009aace, WPF Controls:^9.24.1+b1af3ee5, PathWave License Manager:^2.7.0+398d3a87, PathWave License Manager Minimal:^1.1.2+0ff8f1b5, VCRedist:^1.1.0+67bba1c4 [2.69 s]
+2024-09-10 15:24:05.525461 ; OpenTAP        ; Information ; Target installation is already up to date.
