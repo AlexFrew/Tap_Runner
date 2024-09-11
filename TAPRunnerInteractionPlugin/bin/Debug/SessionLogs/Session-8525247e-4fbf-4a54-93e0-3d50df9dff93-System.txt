@@ -1,0 +1,142 @@
+2024-09-11 09:36:32.906 +01:00 [DBG] LogPath: C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs\Session-8525247e-4fbf-4a54-93e0-3d50df9dff93-2024-11-09-09-36.txt
+2024-09-11 09:36:32.943 +01:00 [DBG] 'OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93' starting and connecting to 'nats://127.0.0.1:20111'
+2024-09-11 09:36:32.946 +01:00 [DBG] No user credentials file path was set - connecting without authentication
+2024-09-11 09:36:32.990 +01:00 [DBG] This Runner is not registered (521FC255F36E6BF2)
+2024-09-11 09:36:32.992 +01:00 [DBG] Debug | Session | Session log loaded as 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs\Session-8525247e-4fbf-4a54-93e0-3d50df9dff93-2024-11-09-09-36.txt'. [2.58 ms]
+2024-09-11 09:36:32.999 +01:00 [DBG] Debug | Session | Running '"C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\tap.exe" runner session --id 8525247e-4fbf-4a54-93e0-3d50df9dff93 --nats-server nats://127.0.0.1:20111 --log "C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs" --runner-id "5CD148467Q"' in 'C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug'.
+2024-09-11 09:36:32.999 +01:00 [DBG] Debug | Settings | No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.24 ms]
+2024-09-11 09:36:32.999 +01:00 [DBG] Debug | Runner | This Runner is not registered (521FC255F36E6BF2)
+2024-09-11 09:36:33.061 +01:00 [DBG] Watchdog termination timer active. Timeout set to 1800 s
+2024-09-11 09:36:33.128 +01:00 [DBG] Debug | AssemblyData | Loaded PackageManager. [5.23 ms]
+2024-09-11 09:36:33.128 +01:00 [DBG] Debug | AssemblyData | Loaded Editor. [5.53 ms]
+2024-09-11 09:36:33.128 +01:00 [DBG] Debug | AssemblyData | Loaded ResultsViewer. [5.14 ms]
+2024-09-11 09:36:33.129 +01:00 [DBG] Debug | AssemblyData | Loaded RunExplorer. [5.13 ms]
+2024-09-11 09:36:33.129 +01:00 [DBG] Debug | Settings | DutSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\DUTs.xml [2.31 ms]
+2024-09-11 09:36:33.129 +01:00 [DBG] Debug | Settings | InstrumentSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\Instruments.xml [889 us]
+2024-09-11 09:36:33.129 +01:00 [DBG] Debug | Settings | ConnectionSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Bench\Default\Connections.xml [829 us]
+2024-09-11 09:36:33.129 +01:00 [DBG] Debug | Settings | ResultSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Results.xml [820 us]
+2024-09-11 09:36:33.129 +01:00 [DBG] Debug | Settings | EditorSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Editor.xml [12.7 ms]
+2024-09-11 09:36:33.129 +01:00 [DBG] Debug | Settings | CloudDriveSettings loaded from C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Settings\Cloud Drive.xml [2.01 ms]
+2024-09-11 09:36:33.129 +01:00 [DBG] Debug | Resolver | Found match for Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Newtonsoft.Json.12.0.0.0\Newtonsoft.Json.dll
+2024-09-11 09:36:33.154 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetWatchDog request started.
+2024-09-11 09:36:33.155 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetWatchDog request processed. (1 ms)
+2024-09-11 09:36:33.250 +01:00 [INF] Session version '1.9.2+48d2728c' started at 11/09-2024 08:36 UTC
+2024-09-11 09:36:33.265 +01:00 [INF] Runner ID: 5CD148467Q
+2024-09-11 09:36:33.266 +01:00 [INF] Press <CTRL>+C to stop
+2024-09-11 09:36:33.267 +01:00 [DBG] NATS Server: nats://127.0.0.1:20111
+2024-09-11 09:36:33.267 +01:00 [DBG] NATS Subject: OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93
+2024-09-11 09:36:33.267 +01:00 [DBG] Log path: C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\SessionLogs
+2024-09-11 09:36:33.348 +01:00 [DBG] Debug | Resolver | Found match for NJsonSchema, Version=10.6.10.0, Culture=neutral, PublicKeyToken=c2f9c3bdfae56102 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\NJsonSchema.10.6.10.0\NJsonSchema.dll
+2024-09-11 09:36:33.348 +01:00 [DBG] Debug | Resolver | Found match for Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\Newtonsoft.Json.12.0.0.0\Newtonsoft.Json.dll
+2024-09-11 09:36:33.348 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetWatchDog request started.
+2024-09-11 09:36:33.348 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetWatchDog request processed. (0 ms)
+2024-09-11 09:36:33.348 +01:00 [DBG] Debug | Resolver | Found match for System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\System.Memory.4.0.1.1\System.Memory.dll
+2024-09-11 09:36:33.348 +01:00 [DBG] Debug | Resolver | Found match for System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Dependencies\System.Runtime.CompilerServices.Unsafe.6.0.0.0\System.Runtime.CompilerServices.Unsafe.dll
+2024-09-11 09:36:33.427 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SessionDetails request started.
+2024-09-11 09:36:33.428 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SessionDetails request processed. (0 ms)
+2024-09-11 09:36:33.475 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetTestPlanXML request started.
+2024-09-11 09:36:33.516 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetTestPlanXML request processed. (39 ms)
+2024-09-11 09:36:33.527 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetTestPlan request started.
+2024-09-11 09:36:33.591 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetTestPlan request processed. (63 ms)
+2024-09-11 09:36:33.609 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request started.
+2024-09-11 09:36:33.614 +01:00 [DBG] Debug | AssemblyData | Loaded TAPRunnerInteractionPlugin. [3.86 ms]
+2024-09-11 09:36:33.674 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request processed. (64 ms)
+2024-09-11 09:36:34.052 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request started.
+2024-09-11 09:36:34.062 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request processed. (8 ms)
+2024-09-11 09:36:34.069 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request started.
+2024-09-11 09:36:34.075 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request processed. (5 ms)
+2024-09-11 09:36:34.088 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request started.
+2024-09-11 09:36:34.097 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request processed. (8 ms)
+2024-09-11 09:36:34.116 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request started.
+2024-09-11 09:36:34.117 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request processed. (0 ms)
+2024-09-11 09:36:34.137 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request started.
+2024-09-11 09:36:34.138 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request processed. (0 ms)
+2024-09-11 09:36:34.147 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request started.
+2024-09-11 09:36:34.148 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request processed. (0 ms)
+2024-09-11 09:36:34.164 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request started.
+2024-09-11 09:36:34.164 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request processed. (0 ms)
+2024-09-11 09:36:34.178 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request started.
+2024-09-11 09:36:34.178 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request processed. (0 ms)
+2024-09-11 09:36:34.195 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request started.
+2024-09-11 09:36:34.196 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request processed. (0 ms)
+2024-09-11 09:36:34.208 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request started.
+2024-09-11 09:36:34.209 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request processed. (0 ms)
+2024-09-11 09:36:34.225 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request started.
+2024-09-11 09:36:34.226 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request processed. (1 ms)
+2024-09-11 09:36:34.242 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request started.
+2024-09-11 09:36:34.242 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetSettings request processed. (0 ms)
+2024-09-11 09:36:34.255 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request started.
+2024-09-11 09:36:34.256 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetSettings request processed. (0 ms)
+2024-09-11 09:36:34.272 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.RunTestPlan request started.
+2024-09-11 09:36:34.286 +01:00 [INF] Running TestPlan Untitled
+2024-09-11 09:36:34.295 +01:00 [DBG] Information | TestPlan | -----------------------------------------------------------------
+2024-09-11 09:36:34.426 +01:00 [DBG] Information | TestPlan | Starting TestPlan 'Untitled' on 09/11/2024 09:36:34, 3 of 3 TestSteps enabled.
+2024-09-11 09:36:34.426 +01:00 [DBG] Debug | Resolver | Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\gumoreau\Documents\taprunner\TAPRunnerInteractionPlugin\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2024-09-11 09:36:34.427 +01:00 [DBG] Debug | Settings | No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [161 us]
+2024-09-11 09:36:34.459 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.RunTestPlan request processed. (188 ms)
+2024-09-11 09:36:34.535 +01:00 [DBG] Debug | TestPlan | Saved Test Plan XML [69.7 ms]
+2024-09-11 09:36:34.535 +01:00 [DBG] Debug | TestPlan | "UserInteractionStep" PrePlanRun completed. [2.51 ms]
+2024-09-11 09:36:34.536 +01:00 [DBG] Debug | TestPlan | PrePlanRun Methods completed [4.37 ms]
+2024-09-11 09:36:34.536 +01:00 [DBG] Information | TestPlan | "Delay" started.
+2024-09-11 09:36:35.477 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request started.
+2024-09-11 09:36:35.478 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request processed. (0 ms)
+2024-09-11 09:36:35.875 +01:00 [DBG] Debug | CLI | Executing CLI action: package \ check-updates
+2024-09-11 09:36:35.875 +01:00 [DBG] Debug | CLI | CLI action returned exit code: 0 [2.25 ms]
+2024-09-11 09:36:36.482 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request started.
+2024-09-11 09:36:36.482 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request processed. (0 ms)
+2024-09-11 09:36:37.494 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request started.
+2024-09-11 09:36:37.494 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request processed. (0 ms)
+2024-09-11 09:36:37.509 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetUserInput request started.
+2024-09-11 09:36:37.515 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetUserInput request processed. (6 ms)
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestPlan | "Delay" completed. [3.00 s]
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestPlan | "Log Output" started.
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestStep | This is a message from the testplan
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestPlan | "Log Output" completed. [493 us]
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestPlan | "UserInteractionStep" started.
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestStep | Result A+B: 101
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestStep | Enum: Choice1
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestStep | Bool :True
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestStep | String : Example of string
+2024-09-11 09:36:37.602 +01:00 [DBG] Information | TestStep | double :  180
+2024-09-11 09:36:38.510 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request started.
+2024-09-11 09:36:38.510 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request processed. (0 ms)
+2024-09-11 09:36:38.651 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetUserInput request started.
+2024-09-11 09:36:38.655 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetUserInput request processed. (4 ms)
+2024-09-11 09:36:38.673 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetUserInput request started.
+2024-09-11 09:36:38.673 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetUserInput request processed. (0 ms)
+2024-09-11 09:36:38.770 +01:00 [DBG] Information | TestStep | User clicked OK.
+2024-09-11 09:36:39.262 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetUserInput request started.
+2024-09-11 09:36:39.262 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetUserInput request processed. (0 ms)
+2024-09-11 09:36:39.287 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetUserInput request started.
+2024-09-11 09:36:39.288 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetUserInput request processed. (0 ms)
+2024-09-11 09:36:39.371 +01:00 [DBG] Information | TestStep | User clicked OK.
+2024-09-11 09:36:39.543 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request started.
+2024-09-11 09:36:39.543 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request processed. (0 ms)
+2024-09-11 09:36:39.695 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetUserInput request started.
+2024-09-11 09:36:39.696 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetUserInput request processed. (0 ms)
+2024-09-11 09:36:39.716 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetUserInput request started.
+2024-09-11 09:36:39.716 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetUserInput request processed. (0 ms)
+2024-09-11 09:36:39.798 +01:00 [DBG] Information | TestStep | User clicked OK.
+2024-09-11 09:36:40.228 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetUserInput request started.
+2024-09-11 09:36:40.228 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.SetUserInput request processed. (0 ms)
+2024-09-11 09:36:40.273 +01:00 [DBG] Information | TestStep | User clicked OK.
+2024-09-11 09:36:40.273 +01:00 [DBG] Information | TestStep | Publish done!
+2024-09-11 09:36:40.273 +01:00 [DBG] Information | TestPlan | "UserInteractionStep" completed with verdict 'Fail'. [2.74 s]
+2024-09-11 09:36:40.274 +01:00 [DBG] Debug | TestPlan | Test step runs finished. [5.76 s]
+2024-09-11 09:36:40.274 +01:00 [DBG] Debug | TestPlan | "UserInteractionStep" PostPlanRun completed. [262 us]
+2024-09-11 09:36:40.274 +01:00 [DBG] Information | Summary | ------- Summary of test plan started 09/11/2024 09:36:34 -------
+2024-09-11 09:36:40.274 +01:00 [DBG] Information | Summary |  Delay                                            3.00 s          
+2024-09-11 09:36:40.274 +01:00 [DBG] Information | Summary |  Log Output                                        493 us         
+2024-09-11 09:36:40.274 +01:00 [DBG] Information | Summary |  UserInteractionStep                              2.74 s   Fail   
+2024-09-11 09:36:40.274 +01:00 [DBG] Information | Summary | ----------------------------------------------------------------
+2024-09-11 09:36:40.274 +01:00 [DBG] Information | Summary | ------- Test plan completed with verdict Fail in 5.86 s --------
+2024-09-11 09:36:40.548 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request started.
+2024-09-11 09:36:40.548 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.GetStatus request processed. (0 ms)
+2024-09-11 09:36:40.568 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.Shutdown request started.
+2024-09-11 09:36:40.568 +01:00 [DBG] NATS message OpenTap.Runner.5CD148467Q.Session.8525247e-4fbf-4a54-93e0-3d50df9dff93.Request.Shutdown request processed. (0 ms)
+2024-09-11 09:36:40.568 +01:00 [INF] Session shutting down - waiting for execution to complete
+2024-09-11 09:36:41.578 +01:00 [INF] Runner session gracefully shutting down at 11/09-2024 08:36 UTC.
+2024-09-11 09:36:41.578 +01:00 [INF] Session shutting down - execution completed
+2024-09-11 09:36:41.594 +01:00 [DBG] NATS connection disconnected
+2024-09-11 09:36:41.595 +01:00 [DBG] Debug | CLI | CLI action returned exit code: 0 [8.82 s]
+2024-09-11 09:36:41.595 +01:00 [DBG] NATS connection closed

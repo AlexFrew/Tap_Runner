@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0667FDB8-20C0-49EA-89D8-E4260F7D3BF6}|..\\TAPRunnerInteractionPlugin\\TAPRunnerInteractionPlugin.csproj|c:\\users\\gumoreau\\documents\\taprunner\\taprunnerinteractionplugin\\myteststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A89463A1-4779-4940-A114-94A21F045B8A}|..\\TapRunnerDll\\TapRunnerDll.csproj|c:\\users\\gumoreau\\documents\\taprunner\\taprunnerdll\\taprunnercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89463A1-4779-4940-A114-94A21F045B8A}|..\\TapRunnerDll\\TapRunnerDll.csproj|c:\\users\\gumoreau\\documents\\taprunner\\taprunnerdll\\taprunnercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0667FDB8-20C0-49EA-89D8-E4260F7D3BF6}|..\\TAPRunnerInteractionPlugin\\TAPRunnerInteractionPlugin.csproj|c:\\users\\gumoreau\\documents\\taprunner\\taprunnerinteractionplugin\\myteststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumoreau\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\TAPRunnerControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -60,30 +60,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MyTestStep.cs",
               "DocumentMoniker": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
               "RelativeDocumentMoniker": "..\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
               "ToolTip": "C:\\Users\\gumoreau\\Documents\\taprunner\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
               "RelativeToolTip": "..\\TAPRunnerInteractionPlugin\\MyTestStep.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAEwEwAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T14:36:51.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TAPRunnerControl.cs",
               "DocumentMoniker": "C:\\Users\\gumoreau\\Documents\\taprunner\\TapRunnerDll\\TAPRunnerControl.cs",
               "RelativeDocumentMoniker": "..\\TapRunnerDll\\TAPRunnerControl.cs",
               "ToolTip": "C:\\Users\\gumoreau\\Documents\\taprunner\\TapRunnerDll\\TAPRunnerControl.cs",
               "RelativeToolTip": "..\\TapRunnerDll\\TAPRunnerControl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T14:26:32.365Z",
               "EditorCaption": ""
@@ -146,8 +146,7 @@
               "RelativeToolTip": "..\\..\\..\\source\\repos\\TAPRunnerControl\\TapRunnerDll\\TAPRunnerControl.cs",
               "ViewState": "AQIAAHYAAAAAAAAAAAAgwJEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T08:59:08.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T08:59:08.711Z"
             },
             {
               "$type": "Document",

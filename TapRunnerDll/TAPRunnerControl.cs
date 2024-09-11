@@ -35,10 +35,10 @@ namespace TapRunnerDll
         /// <summary>
         /// Initializes a new instance of the TAPRunnerControl class.
         /// </summary>
-        public TAPRunnerControl()
+        public TAPRunnerControl(string nATSAddress = "nats://127.0.0.1:20111")
         {
             LatestTestPlanVerdict = OpenTap.Runner.Client.Verdict.NotSet;
-            NATSAddress = "nats://127.0.0.1:20111";
+            NATSAddress = nATSAddress;
         }
 
         private delegate void TestPlanExecutionEventHandler(ExecutionState executionState);
@@ -377,5 +377,4 @@ namespace TapRunnerDll
     }
 
     #endregion CustomExceptions
-
 }

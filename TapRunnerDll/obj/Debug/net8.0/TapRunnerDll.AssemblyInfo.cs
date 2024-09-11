@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TapRunnerDll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc11240d16d3421404159f4e58501836f4e1bd7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TapRunnerDll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TapRunnerDll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
