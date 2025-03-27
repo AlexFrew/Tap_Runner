@@ -44,7 +44,7 @@ namespace TAPRunnerLib
             EnumExample = TAPRunnerInteractionPlugin.TestEnum.Choice2;
             StringExample = "Example of string";
             UseTimeout = true;
-            TestPlanPath = @"C:\Users\gumoreau\source\repos\TAPRunnerControl\TAPRunnerInteractionPlugin\bin\Debug\FirstTestPlan.TapPlan";
+            TestPlanPath = @"C:\Users\alexfrew\source\repos\TAPRunnerControl\TAPRunnerInteractionPlugin\bin\Debug\FirstTestPlan.TapPlan";
         }
 
         private void OnResultReceived(object? sender, Result e)
